@@ -1,0 +1,16 @@
+{
+  "item.bountiful_boons.token_of_zeus": "Token of Zeus",
+  "item.bountiful_boons.token_of_aphrodite": "Token of Aphrodite",
+  "item.bountiful_boons.token_of_ares": "Token of Ares",
+  "item.bountiful_boons.token_of_artemis": "Token of Artemis",
+  "item.bountiful_boons.token_of_athena": "Token of Athena",
+  "item.bountiful_boons.token_of_demeter": "Token of Demeter",
+  "item.bountiful_boons.token_of_dionysus": "Token of Dionysus",
+  "item.bountiful_boons.token_of_hades": "Token of Hades",
+  "item.bountiful_boons.token_of_hephaestus": "Token of Hephaestus",
+  "item.bountiful_boons.token_of_hermes": "Token of Hermes",
+  "item.bountiful_boons.token_of_poseidon": "Token of Poseidon",
+
+  "block.bountiful_boons.olympian_pedestal": "Olympian Pedestal",
+  "block.bountiful_boons.olympian_altar": "Olympian Altar"
+}
