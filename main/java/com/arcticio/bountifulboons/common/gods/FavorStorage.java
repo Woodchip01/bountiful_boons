@@ -13,7 +13,8 @@ import javax.annotation.Nullable;
 import java.util.Arrays;
 
 public class FavorStorage implements Capability.IStorage<IFavor> {
-
+    system.out.println("EAT SHIT");
+    
     @Nullable
     @Override
     public INBT writeNBT(Capability<IFavor> capability, IFavor instance, Direction side) {
